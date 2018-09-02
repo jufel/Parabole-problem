@@ -1,0 +1,9 @@
+As I came to know that the problem involved NLP, I was unable to move forward. My idea was 
+1. To categorise each sentence into 3 phrases or words
+    to do that i will have to create another data set using the given one where it contains each phrase/word being categorised into 3 lists A-1st part of the sentence,B-2nd,C-3rd.
+2. Train a neural network to categorise each word in the sentence into those 3 categories but the problem was the error function i was not able to figure it out(it is not the same error function as a logistic regression).
+3. After categorising into lists A,B,C i will check how the words are interconnected.
+   ex: if A[0] and B[0] are connected thru C then i can write a new sentence connecting A[0] and B[0].
+
+Due to my limitations in the knowledge of machine learning upto CNN, i was unable to crack the problem.
+And finally i am sorry for submitting my repository late because i didnt know it would cause DISCO.
